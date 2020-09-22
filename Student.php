@@ -21,9 +21,9 @@ $this->grades = array();
 
 }
 
-/*function add_email($which,$address) {
+function add_email($which,$address) {
 $this->emails[$which] = $address;
 }
 function add_grade($grade) {
 $this->grades[] = $grade;
-}*/
+}
